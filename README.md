@@ -1,8 +1,7 @@
 # Desenvolvimento Mobile
 
 ## Tecnologias Utilizadas
-- React Native
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="10" width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="70" width="70" />
 
 
 
