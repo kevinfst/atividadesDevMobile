@@ -10,3 +10,6 @@
 
 ## 2 - Criar um App chamado Contador de Pessoas
 - Onde ele exiba a quantidade de pessoas.
+
+## 3 - Criar um App chamado Calculadora
+- Onde ele faça multiplicações entre 2 números.
