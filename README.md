@@ -25,3 +25,6 @@
 
 ## 7 - Criar um App chamado Anúncios para venda de produtos
 - Para anunciar produtos que estão à venda.
+
+## 8 - Criar um App chamado Vagas de emprego de TI
+- Para anunciar vagas de emprego para a área de TI.
