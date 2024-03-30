@@ -23,3 +23,5 @@
 ## 6 - Criar um App chamado Jogo do número aleatório
 - Para gerar um número aleatório de 0 a 10.
 
+## 7 - Criar um App chamado Anúncios para venda de produtos
+- Para anunciar produtos que estão à venda.
