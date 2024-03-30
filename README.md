@@ -28,3 +28,12 @@
 
 ## 8 - Criar um App chamado Vagas de emprego de TI
 - Para anunciar vagas de emprego para a área de TI.
+
+## 9 - Criar um App chamado Formulário de abertura de conta bancária
+- Contendo um formulário para abrir uma conta bancária.
+
+## 10 - Conversor de Moedas
+- Criar um conversor de moedas de Dólar, Real e Euro.
+
+## 11 - Criar um App chamado Vagas de emprego de TI (com Flat List)
+- Basicamente a mesma coisa do app 08, mas utilizando >Flat List<
