@@ -3,7 +3,9 @@
 ## Tecnologias Utilizadas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="70" width="70" />
 
-## Aplicativos criados
+##
+
+# Aplicativos
 
 ## 1 - Meu Perfil Profissional
 - Onde ele exiba a sua foto, dados pessoais, formação, experiência e projetos que você já fez.
