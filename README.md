@@ -39,3 +39,6 @@
 
 ## 11 - Vagas de emprego de TI (com Flat List)
 - Basicamente a mesma coisa do app 08, mas utilizando >Flat List<
+
+## 12 - Formulário de abertura de conta bancária com 2 telas com Stack Navigator
+- Parte 2 da Atividade 9 acrescentando 1 tela e implementando a navegação entre páginas.
